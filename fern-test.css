@@ -1,0 +1,17 @@
+.title-heading {
+    margin-top: 0;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+
+body {
+    text-rendering: auto;
+    --moz-ozsx-font-smoothing: grayscale;
+    -webkit-font-smothing: antialiased;
+    line-height: 1.7;
+}
+
+p {
+    margin-bottom: 1.5em;
+}
